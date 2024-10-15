@@ -5,7 +5,7 @@ Não e necessário realizar nenhuma instalação para a sua utilização, você 
 
 # Fotos
 ## 1:
-![image](https://github.com/user-attachments/assets/f1931f40-28f1-4931-90c5-f65a413781c6)
+![image](https://github.com/user-attachments/assets/f39a06f1-7243-41d0-9476-9a62921ab248)
 
 ## 2:
 ![image](https://github.com/user-attachments/assets/31ebdbe8-7fa7-42aa-b7e8-6640d6c8135b)
